@@ -12,3 +12,4 @@ C:\Users\umbom\OneDrive\Área de Trabalho\listaFinal2\ex04\obj\Debug\net10.0\ref
 C:\Users\umbom\OneDrive\Área de Trabalho\listaFinal2\ex04\obj\Debug\net10.0\ex04.pdb
 C:\Users\umbom\OneDrive\Área de Trabalho\listaFinal2\ex04\obj\Debug\net10.0\ex04.genruntimeconfig.cache
 C:\Users\umbom\OneDrive\Área de Trabalho\listaFinal2\ex04\obj\Debug\net10.0\ref\ex04.dll
+C:\Users\umbom\OneDrive\Área de Trabalho\listaFinal2\ex04\obj\Debug\net10.0\ex04.sourcelink.json
